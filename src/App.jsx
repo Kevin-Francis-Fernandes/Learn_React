@@ -1,9 +1,9 @@
+import ProfilePicture from "./components/ProfilePicture.jsx"
 
-import Button from "./components/Button";
 function App() {
     return (
       <>
-        <Button />
+      <ProfilePicture />       
       </>
     );
 }
