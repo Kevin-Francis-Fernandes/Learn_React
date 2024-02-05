@@ -10,7 +10,8 @@ function Student(props){
     
 }
 Student.propTypes={
-    age : PropTypes.number
+    age : PropTypes.number ,
+    name :  PropTypes.string
 }
 
 export default Student
